@@ -7,7 +7,7 @@ public:
     int x;
 
 public:
-    Entity (int x) 
+    Entity (int x)
     {
         /* x = x; */
        this->x = x;
