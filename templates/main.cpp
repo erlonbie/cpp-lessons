@@ -1,4 +1,5 @@
 #include <iostream>
+//#include <bits/stdc++.h>
 
 /* TODO: criar um snippet de classe <17-07-22, erlonbie> */
 /* NOTE: criar um snippet de classe <17-07-22, erlonbie> */
@@ -22,8 +23,8 @@ public:
 
 int main(int argc, char *argv[]) {
   int x = 1;
-  float y = 2.3f;
   char a = 'a';
+  float y = 2.3f;
   std::string frase = "Hello World";
 
   /* Print2(x); */
